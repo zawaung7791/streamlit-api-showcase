@@ -8,7 +8,7 @@ from datetime import datetime
 st.set_page_config(
     page_title="Streamlit API Showcase",
     page_icon="✨",
-    layout="wide",
+    layout="centered",
 )
 
 # Page Title
